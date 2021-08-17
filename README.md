@@ -25,6 +25,7 @@ Three technical analysis deliverables and a proposal of future statistics study:
 3.This linear model does predict mpg of MechaCar prototypes effectively.R-squared value is 0.7149, which means that approximtely 71% of all mpg predictions will be determined by this model.
 If those 3 less impactful independent variables have been removed (ehicle weight, spoiler angle, and All Wheel Drive)the r-squared value decrease from 0.7149 to 0.674
 ![](Resources/Linear_Regression_to_Predict_MPG)
+
 ## Summary Statistics on Suspension Coils
 Total summary:
 ![](Resources/suspension_coils_total_summary)
@@ -35,19 +36,19 @@ Based on the variance of the suspension coils in the total summary, the suspensi
 
 ## T-Tests on Suspension Coils
 Overall:
-![](Resources/Overall_suspension_coil_T-test)
+![](Resources/Overall_suspension_coil_T_test)
 
 Lot1:
 The p-value of 1 shows that the mean for Lot1 is exactly the same same as the population mean of 1500 PSI.
-![](Resources/Lot1_suspension_coil_T-test)
+![](Resources/Lot1_suspension_coil_T_test)
 
 Lot2:
 The p-value of 0.6072 is higher than the critical value of 0.05, the null hypothesis can be accepted in that there is no difference between the means of the PSI for the population and Lot2. The means within the 95% confidence range are between 1499.423 and 1500.977 PSI.
-![](Resources/Lot2_suspension_coil_T-test)
+![](Resources/Lot2_suspension_coil_T_test)
 
 Lot3:
 The p-value of 0.04168 is lower than the critical value of 0.05, the null hypothesis should be rejected in that there is a difference between the means of the PSI for the population and Lot3 and the true mean is not equal to 1500. The means within the 95% confidence range are between 1492.431 and 1499.849 PSI.
-![](Resources/Lot3_suspension_coil_T-test)
+![](Resources/Lot3_suspension_coil_T_test)
 
 ## Study Design: MechaCar vs Competition
 1.Metrics
