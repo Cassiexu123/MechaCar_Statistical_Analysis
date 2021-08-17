@@ -41,14 +41,17 @@ Overall:
 
 Lot1:
 The p-value of 1 shows that the mean for Lot1 is exactly the same same as the population mean of 1500 PSI.
-![](Image/Lot1_suspension_coil_T_test.PNG)
+
+![](Images/Lot1_suspension_coil_T_test.PNG)
 
 Lot2:
 The p-value of 0.6072 is higher than the critical value of 0.05, the null hypothesis can be accepted in that there is no difference between the means of the PSI for the population and Lot2. The means within the 95% confidence range are between 1499.423 and 1500.977 PSI.
+
 ![](Images/Lot2_suspension_coil_T_test.PNG)
 
 Lot3:
 The p-value of 0.04168 is lower than the critical value of 0.05, the null hypothesis should be rejected in that there is a difference between the means of the PSI for the population and Lot3 and the true mean is not equal to 1500. The means within the 95% confidence range are between 1492.431 and 1499.849 PSI.
+
 ![](Images/Lot3_suspension_coil_T_test.PNG)
 
 ## Study Design: MechaCar vs Competition
