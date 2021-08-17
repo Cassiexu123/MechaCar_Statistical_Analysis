@@ -12,10 +12,10 @@ The purpose of this project is to:
 
 ## Deliverables:
 Three technical analysis deliverables and a proposal of future statistics study:
-1.Deliverable 1: Linear Regression to Predict MPG
-2.Deliverable 2: Summary Statistics on Suspension Coils
-3.Deliverable 3: T-Test on Suspension Coils
-4.Deliverable 4: Design a Study Comparing the MechaCar to the Competition
+-Deliverable 1: Linear Regression to Predict MPG
+-Deliverable 2: Summary Statistics on Suspension Coils
+-Deliverable 3: T-Test on Suspension Coils
+-Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 
 ## Linear Regression to Predict MPG
 1.Vehicle length and ground clearance provided a non-random amount of variance to the mpg values in the dataset, as shown by their low p-values. In other words, the vehicle length and ground clearance have a significant impact on the mpg value in the dataset.
@@ -24,7 +24,7 @@ Three technical analysis deliverables and a proposal of future statistics study:
 
 3.This linear model does predict mpg of MechaCar prototypes effectively.R-squared value is 0.7149, which means that approximtely 71% of all mpg predictions will be determined by this model.
 If those 3 less impactful independent variables have been removed (ehicle weight, spoiler angle, and All Wheel Drive)the r-squared value decrease from 0.7149 to 0.674
-![](Resources/Linear_Regression_to_Predict_MPG)
+![](Images/Linear_Regression_to_Predict_MPG.PNG)
 
 ## Summary Statistics on Suspension Coils
 Total summary:
