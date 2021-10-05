@@ -60,35 +60,14 @@ The p-value of 0.04168 is lower than the critical value of 0.05, the null hypoth
 
 ## Study Design: MechaCar vs Competition
 - 1.Metrics
-- Engine (Electric, Hybrid, Gasoline / Conventional): Independent Variable
-- Current Price (Selling): Dependent Variable
-- Average Annual Cost of ownership (Maintenance): Independent Variable
+  - Engine (Electric, Hybrid, Gasoline / Conventional): Independent Variable
+  - Current Price (Selling): Dependent Variable
+  - Average Annual Cost of ownership (Maintenance): Independent Variable
 
 - 2.Hypothesis: Null and Alternative
 Null Hypothesis (Ho): MechaCar is priced correctly based on its performance of key factors for its genre.
 Alternative Hypothesis (Ha): MechaCar is NOT priced correctly based on performance of key factors for its genre.
 
 - 3.Statistical Test
-multiple linear regression would be used to determin the factors that correlation with the list selling price.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Multiple linear regression would be used to determin the factors that correlation with the list selling price.
 
