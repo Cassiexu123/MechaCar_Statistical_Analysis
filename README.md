@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis
 
 ## Overview:
-AutosRUs' newest prototype, the MechaCar, is suffering from production troubles that are blocking the manufacturing team's progress. AutosRU's upper management wants the data analyytics team to review the production data for insights that may help the manufacturing team.
+AutosRUs' newest prototype, the MechaCar, is suffering from production troubles that are blocking the manufacturing team's progress. AutosRU's upper management wants the data analytics team to review the production data for insights that may help the manufacturing team.
 
 ## Purpose
 The purpose of this project is to:
